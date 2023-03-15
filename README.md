@@ -5,5 +5,5 @@ Hi there 👋
 - 🌱 I’m currently learning Web and Android development
 - 📫 How to reach me: sonalibiswas242@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can make you good playlist which soothes you taste of music
+- ⚡ Fun fact: I can make you good playlist which suits your music taste
 
