@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋, I'm Sonali Biswas</h1>
+<h1 align="center">Howdy 👋, I'm Sonali! Nice to Meet You!</h1>
 
 <p align="center">
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
@@ -27,7 +27,7 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
 
 ---
 
-<h2 align="center">My skill stack</h2>
+<h2 align="center">My Skill Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,java,cpp,python" alt="Languages & Frameworks" />
