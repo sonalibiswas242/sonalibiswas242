@@ -1,5 +1,4 @@
-# Howdy 👋, I'm Sonali!
-##### Nice to meet you!
+# Howdy 👋, I'm Sonali! Nice to meet you!
 
 ### A little about me:
 
