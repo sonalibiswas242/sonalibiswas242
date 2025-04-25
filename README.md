@@ -1,4 +1,4 @@
-# Howdy 👋, I'm Sonali! Nice to meet you!
+<h2 align="center">Howdy 👋, I'm Sonali Biswas</h2>
 
 <p align="center">
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
