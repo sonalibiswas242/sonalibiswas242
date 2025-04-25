@@ -1,12 +1,11 @@
-# Howdy 👋, I'm Sonali! Nice to meet you!
+### Howdy 👋, I'm Sonali! Nice to meet you!
 
-🌐 Full Stack Web Developer | 📱 Mobile App Developer | 🤖 DS/ML Enthusiast
+##### A little about me
 
-### About Me
+I'm currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**.  
+I'm a **Full Stack Developer**, **Mobile App Developer**, and an enthusiastic explorer of **Data Science** and **Machine Learning**.  
 
-I am currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**.
-
-### My Skills
+##### My Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,java,cpp,python" alt="Languages & Frameworks" />
@@ -16,7 +15,7 @@ I am currently pursuing my Master's in **Computer Science** at the **University 
   <img src="https://skillicons.dev/icons?i=androidstudio,react,redux,figma,github,git,vscode,postman" alt="Tools" />
 </p>
 
-### 🔗 You can reach out to me through:
+##### You can reach out to me through:
 
 <p>
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
@@ -30,13 +29,6 @@ I am currently pursuing my Master's in **Computer Science** at the **University 
   </a>
 </p>
 
-### GitHub Stats
+##### Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalibiswas&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalibiswas&theme=radical" width="48%" />
-</p>
-
-### ✨ Fun Fact
-
-📸 *I love capturing every interesting thing I see — from vibrant street scenes to quiet little moments that others often overlook.*
+📸 I named my travel app **Resfeber** — a Swedish word that beautifully captures the restless excitement before a journey begins
