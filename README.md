@@ -21,11 +21,13 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-sonalibiswas242@gmail.com-b5838d?style=flat&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sonalibiswas242/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sonalibiswas242-6d6875?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://x.com/Shonaaaliii" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Shonaaaliii-5e548e?style=flat&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Shonaaaliii-5e548e?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
 
