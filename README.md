@@ -1,4 +1,4 @@
-<h2 align="center">Howdy 👋, I'm Sonali Biswas</h2>
+<h1 align="center">Howdy 👋, I'm Sonali Biswas</h1>
 
 <p align="center">
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
