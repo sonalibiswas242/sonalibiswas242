@@ -19,11 +19,11 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
 
 ### 👋 Quick Intro
 
-👩‍💻 My full name is Sonali Biswas
-🎓 Currently pursuing my MS in **Computer Science** at the **University of California, Riverside**  
-💼 Working as a **Grader** at UCR  
-📫 Reach me at: sonalibiswas242@gmail.com  
-😄 Pronouns: she/her  
+- 👩‍💻 My full name is Sonali Biswas  
+- 🎓 Currently pursuing my MS in **Computer Science** at the **University of California, Riverside**  
+- 💼 Working as a **Grader** at UCR  
+- 📫 Reach me at: [sonalibiswas242@gmail.com](mailto:sonalibiswas242@gmail.com)  
+- 😄 Pronouns: she/her  
 
 ---
 
