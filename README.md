@@ -1,11 +1,11 @@
 # Howdy 👋, I'm Sonali! Nice to meet you!
 
-### A little about me
+### A little about me:
 
 I'm currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**.  
 I'm a **Full Stack Developer**, **Mobile App Developer**, and an enthusiastic explorer of **Data Science** and **Machine Learning**.  
 
-### My Skills
+### My Skills:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,java,cpp,python" alt="Languages & Frameworks" />
@@ -29,6 +29,6 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and an enthusiastic ex
   </a>
 </p>
 
-### Fun Fact
+### Fun Fact:
 
 📸 I named my travel app **Resfeber** — a Swedish word that beautifully captures the restless excitement before a journey begins
