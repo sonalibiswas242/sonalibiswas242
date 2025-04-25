@@ -3,7 +3,6 @@
 I'm currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**.  
 I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **Data Science** and **Machine Learning** fields recently.  
 
-<p align="center">
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" />
   </a>
@@ -13,7 +12,6 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
   <a href="https://x.com/Shonaaaliii" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="48" />
   </a>
-</p>
 
 ### 👋 Quick Intro
 
@@ -25,7 +23,7 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
 
 ---
 
-<p align="center"><h4>My skill stack </h4></p>
+<h2 align="center">My skill stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,java,cpp,python" alt="Languages & Frameworks" />
