@@ -31,4 +31,4 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
 
 ### Fun Fact:
 
-📸 I named my travel app **Resfeber** — a Swedish word that beautifully captures the restless excitement before a journey begins
+📸 I love capturing every interesting thing I see — from vibrant street scenes to quiet little moments that others often overlook.
