@@ -17,6 +17,24 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
   </a>
 </p>
 
+### 📊 Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonalibiswas&theme=github_dark" alt="Profile Details Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonalibiswas&theme=github_dark" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonalibiswas&theme=github_dark" alt="Most Used Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonalibiswas&theme=github_dark" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonalibiswas&theme=github_dark&utcOffset=8" alt="Productive Time" />
+</p>
+
 ### My skill stack:
 
 <p align="center">
