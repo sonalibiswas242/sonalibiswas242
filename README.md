@@ -1,8 +1,5 @@
 # Howdy 👋, I'm Sonali! Nice to meet you!
 
-I'm currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**.  
-I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **Data Science** and **Machine Learning** fields recently.  
-
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" />
   </a>
@@ -12,6 +9,9 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
   <a href="https://x.com/Shonaaaliii" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="48" />
   </a>
+
+I'm currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**.  
+I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **Data Science** and **Machine Learning** fields recently.  
 
 ### 👋 Quick Intro
 
