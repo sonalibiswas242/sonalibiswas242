@@ -25,7 +25,7 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
 
 ---
 
-### My skill stack:
+<p align="center">## My skill stack</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,java,cpp,python" alt="Languages & Frameworks" />
