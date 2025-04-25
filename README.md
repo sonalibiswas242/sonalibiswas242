@@ -7,11 +7,9 @@ I'm a **Full Stack Developer**, **Mobile App Developer**, and I am exploring **D
   <a href="mailto:sonalibiswas242@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="48" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/sonalibiswas242/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
   </a>
-  &nbsp;
   <a href="https://x.com/Shonaaaliii" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="48" />
   </a>
