@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**. I'm passionate about creating clean, user-centric digital products — from full-stack web apps to mobile experiences.
+I am currently pursuing my Master's in **Computer Science** at the **University of California, Riverside**.
 
 ### My Skills
 
@@ -32,11 +32,10 @@ I am currently pursuing my Master's in **Computer Science** at the **University 
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalibiswas&show_icons=true&theme=github_dark&title_color=b5838d&icon_color=b5838d&text_color=d3d3d3" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalibiswas&theme=github-dark-blue&ring=b5838d&fire=e5989b&currStreakLabel=d3d3d3" width="48%" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalibiswas&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalibiswas&theme=radical" width="48%" />
+</p>
 
 ### ✨ Fun Fact
 
